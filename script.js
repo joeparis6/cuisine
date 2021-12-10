@@ -39,22 +39,7 @@ let app = new Vue({
     saveDish() {
       this.current
     }
-    /*
-    getRandom(min, max) {
-      min = Math.ceil(min);
-      max = Math.floor(100);
-      return Math.floor(Math.random() * (max - min + 1)) + min; //The maximum and minimum are inclusive
-    },
-    randomDog() {
-      this.index = this.getRandom(1, 100);
-    },
-    firstDog() {
-      this.index = 1;
-    },
-    lastDog() {
-      this.index = 100;
-    },
-    */
+    
   }
 
 });

@@ -1,0 +1,27 @@
+body {
+    font-family: Marker Felt, fantasy;
+    font-size: 16px;
+    padding: 20px 100px 0px 100px;
+    background: #2222ed;
+    text-align: center;
+    color: white;
+}
+
+button {
+
+    font-size: 1em;
+}
+
+textarea {
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:500px;
+  height: 400px;
+}
